@@ -56,6 +56,12 @@
       <groupId>org.mockito</groupId>
       <artifactId>mockito-core</artifactId>
     </dependency>
+      <dependency>
+          <groupId>io.netty</groupId>
+          <artifactId>netty-common</artifactId>
+          <version>4.1.29.Final</version>
+          <scope>compile</scope>
+      </dependency>
   </dependencies>
 </project>
 
